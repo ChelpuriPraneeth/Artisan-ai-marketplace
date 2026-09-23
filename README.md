@@ -10,12 +10,15 @@ An AI-powered marketplace assistant for local artisans.
 - Supports local artisan products
 
 ## Technologies
-- Python
+- Google sheets
 - Generative AI
-- Google Sheets
+- AI-powered marketing workflows
 
 ## Project
+
 This project was developed as part of the Generative AI Exchange Program.
+It uses Google Sheets and Generative AI to support marketing activities
+for local artisans.
 
 ## Future Improvements
 - Add a web interface
